@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">SkillSwap</string>
+    <string name="Splash">Splash</string>
+    <string name="login">Login</string>
+    <string name="registered">Registration</string>
+    <string name="ForgotPassword">Forgot Password</string>
+    <string name="home">Home</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="search">Search</string>
+    <string name="settings_icon">Setting</string>
+    <string name="web_client_id">544566270015-evied2rt5t0h9b7i6aa3lipm8h1j9t1d.apps.googleusercontent.com</string>
+    <string name="label_back">Back</string>
+    <string name="update">Update</string>
+    <string name="reset">Reset Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="mainScreen">MainScreen</string>
+    <string name="profile">Profile</string>
+    <string name="chat">Chat</string>
+    <string name="addSkill">Add Skill</string>
+    <string name="SkillDetailScreen">Detail</string>
+    <string name="changePassword">ChangePassword</string>
+    <string name="Feedback">send Message</string>
+    <string name="ProfileEdit">Edit Profile</string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="conversations">Conversations</string>
+    <string name="jumpBottom">Jump to bottom</string>
+    <string name="send">Send</string>
+    <string name="author_me">me</string>
+    <string name="now">8:30 PM</string>
+    <string name="members">%d members</string>
+    <string name="textfield_hint">Message #composers</string>
+    <string name="swipe_to_cancel_recording">&#x25C0; Swipe to cancel</string>
+    <string name="emojis_label">Emojis</string>
+    <string name="stickers_label">Stickers</string>
+
+    <string name="message">Message</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="profile_error">There was an error loading the profile</string>
+    <string name="bio">Bio</string>
+    <string name="display_name">Display name</string>
+    <string name="status">Status</string>
+    <string name="timezone">Timezone</string>
+    <string name="twitter">Twitter</string>
+    <string name="common_channels">Channels in common</string>
+    <string name="lorem">Lorem or Ipsum</string>
+
+    <!-- Accessibility descriptions -->
+
+    <string name="emoji_selector_desc">Emoji selector</string>
+    <string name="emoji_selector_bt_desc">Show Emoji selector</string>
+    <string name="dm_desc">Direct Message</string>
+    <string name="attach_photo_desc">Attach Photo</string>
+    <string name="map_selector_desc">Location selector</string>
+    <string name="videochat_desc">Start videochat</string>
+    <string name="textfield_desc">Text input</string>
+    <string name="not_available">Functionality currently not available</string>
+    <string name="not_available_subtitle">Grab a beverage and check back later!</string>
+    <string name="attached_image">Attached image</string>
+    <string name="info">Information</string>
+    <string name="more_options">More options</string>
+    <string name="touch_and_hold_to_record">Touch and hold to record</string>
+    <string name="record_message">Record voice message</string>
+    <string name="AllSkillScreen">All Skill</string>
+
+</resources>
